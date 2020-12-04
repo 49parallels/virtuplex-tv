@@ -1,0 +1,2140 @@
+fileFormatVersion: 2
+guid: c3bd596d9c0d0374eabedeaf845c57e9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: $$$DUMMY.13_DOOR_FR
+    100002: $$$DUMMY.14_DOOR_FR
+    100004: $$$DUMMY.15_DOOR_RE
+    100006: $$$DUMMY.16_DOOR_RE
+    100008: $$$DUMMY.22_TAILGAT
+    100010: $$$DUMMY.Mazda_CX-5
+    100012: _main_sti0
+    100014: _main_sti1
+    100016: _main_stit
+    100018: black_pla0
+    100020: black_pla1
+    100022: black_pla2
+    100024: black_pla3
+    100026: black_plas
+    100028: body_rear0
+    100030: body_rear_
+    100032: Bumper_ba0
+    100034: Bumper_bac
+    100036: Bumper_Fr0
+    100038: Bumper_Fro
+    100040: carchair10
+    100042: carchair11
+    100044: carchair12
+    100046: carchair13
+    100048: carchair14
+    100050: carchair15
+    100052: carchair16
+    100054: carchair17
+    100056: carchair18
+    100058: carchair19
+    100060: carchair20
+    100062: carchair21
+    100064: carchair22
+    100066: carchair23
+    100068: carchair24
+    100070: carchair25
+    100072: carchair26
+    100074: carchair27
+    100076: carchair28
+    100078: carchair29
+    100080: carchair30
+    100082: carchair31
+    100084: carchair32
+    100086: carchair33
+    100088: carchair_0
+    100090: carchair_1
+    100092: carchair_2
+    100094: carchair_3
+    100096: carchair_4
+    100098: carchair_5
+    100100: carchair_6
+    100102: carchair_7
+    100104: carchair_8
+    100106: carchair_9
+    100108: carchair_f
+    100110: carchair_m
+    100112: carchair_r
+    100114: detail_ca0
+    100116: detail_ca1
+    100118: detail_cam
+    100120: disk_006
+    100122: disk_007
+    100124: disk_008
+    100126: disk_009
+    100128: disk_01
+    100130: disk_010
+    100132: disk_011
+    100134: disk_012
+    100136: disk_013
+    100138: disk_014
+    100140: disk_015
+    100142: disk_016
+    100144: disk_017
+    100146: disk_018
+    100148: disk_019
+    100150: disk_02
+    100152: disk_020
+    100154: disk_03
+    100156: disk_04
+    100158: disk_05
+    100160: door_fro10
+    100162: door_fro11
+    100164: door_fro12
+    100166: door_fro13
+    100168: door_fro14
+    100170: door_fro15
+    100172: door_fro16
+    100174: door_fro17
+    100176: door_fro18
+    100178: door_fro19
+    100180: door_fro20
+    100182: door_fro21
+    100184: door_fro22
+    100186: door_fro23
+    100188: door_fro24
+    100190: door_fro25
+    100192: door_fro26
+    100194: door_fro27
+    100196: door_fro28
+    100198: door_fro29
+    100200: door_fro30
+    100202: door_fro31
+    100204: door_fro32
+    100206: door_fro33
+    100208: door_fro34
+    100210: door_fro35
+    100212: door_fro36
+    100214: door_fro37
+    100216: door_fro38
+    100218: door_fro39
+    100220: door_fro40
+    100222: door_fro41
+    100224: door_fro42
+    100226: door_fro43
+    100228: door_fro44
+    100230: door_fro45
+    100232: door_fro46
+    100234: door_fro47
+    100236: door_fro48
+    100238: door_fro49
+    100240: door_fro50
+    100242: door_fro51
+    100244: door_fro52
+    100246: door_fro53
+    100248: door_fro54
+    100250: door_fro55
+    100252: door_fro56
+    100254: door_fron0
+    100256: door_fron1
+    100258: door_fron2
+    100260: door_fron3
+    100262: door_fron4
+    100264: door_fron5
+    100266: door_fron6
+    100268: door_fron7
+    100270: door_fron8
+    100272: door_fron9
+    100274: door_front
+    100276: door_rea10
+    100278: door_rea11
+    100280: door_rea12
+    100282: door_rea13
+    100284: door_rea14
+    100286: door_rea15
+    100288: door_rea16
+    100290: door_rea17
+    100292: door_rea18
+    100294: door_rea19
+    100296: door_rea20
+    100298: door_rea21
+    100300: door_rea22
+    100302: door_rea23
+    100304: door_rea24
+    100306: door_rea25
+    100308: door_rea26
+    100310: door_rea27
+    100312: door_rea28
+    100314: door_rea29
+    100316: door_rea30
+    100318: door_rea31
+    100320: door_rea32
+    100322: door_rea33
+    100324: door_rea34
+    100326: door_rea35
+    100328: door_rea36
+    100330: door_rea37
+    100332: door_rea38
+    100334: door_rea39
+    100336: door_rea40
+    100338: door_rear0
+    100340: door_rear1
+    100342: door_rear2
+    100344: door_rear3
+    100346: door_rear4
+    100348: door_rear5
+    100350: door_rear6
+    100352: door_rear7
+    100354: door_rear8
+    100356: door_rear9
+    100358: door_rear_
+    100360: Fbx_Root
+    100362: fender_fro
+    100364: fg
+    100366: frame
+    100368: frame_comp
+    100370: frame_loc0
+    100372: frame_lock
+    100374: front_pa10
+    100376: front_pa11
+    100378: front_pa12
+    100380: front_pa13
+    100382: front_pa14
+    100384: front_pa15
+    100386: front_pa16
+    100388: front_pa17
+    100390: front_pa18
+    100392: front_pa19
+    100394: front_pa20
+    100396: front_pa21
+    100398: front_pa22
+    100400: front_pa23
+    100402: front_pa24
+    100404: front_pa25
+    100406: front_pa26
+    100408: front_pa27
+    100410: front_pa28
+    100412: front_pan0
+    100414: front_pan1
+    100416: front_pan2
+    100418: front_pan3
+    100420: front_pan4
+    100422: front_pan5
+    100424: front_pan6
+    100426: front_pan7
+    100428: front_pan8
+    100430: front_pan9
+    100432: front_pane
+    100434: front_wip0
+    100436: front_wipe
+    100438: gage_pan10
+    100440: gage_pan11
+    100442: gage_pan12
+    100444: gage_pan13
+    100446: gage_pan14
+    100448: gage_pan15
+    100450: gage_pan16
+    100452: gage_pan17
+    100454: gage_pan18
+    100456: gage_pan19
+    100458: gage_pan20
+    100460: gage_pan21
+    100462: gage_pan22
+    100464: gage_pan23
+    100466: gage_pan24
+    100468: gage_pan25
+    100470: gage_pan26
+    100472: gage_pan27
+    100474: gage_pan28
+    100476: gage_pan29
+    100478: gage_pan30
+    100480: gage_pan31
+    100482: gage_pan32
+    100484: gage_pan33
+    100486: gage_pan34
+    100488: gage_pan35
+    100490: gage_pan36
+    100492: gage_pan37
+    100494: gage_pan38
+    100496: gage_pan39
+    100498: gage_pane0
+    100500: gage_pane1
+    100502: gage_pane2
+    100504: gage_pane3
+    100506: gage_pane4
+    100508: gage_pane5
+    100510: gage_pane6
+    100512: gage_pane7
+    100514: gage_pane8
+    100516: gage_pane9
+    100518: gage_panel
+    100520: gas_lift
+    100522: grill_003
+    100524: grill_01
+    100526: grill_03
+    100528: grill_04_0
+    100530: grill_04_p
+    100532: grill_05
+    100534: indicato10
+    100536: indicato11
+    100538: indicator0
+    100540: indicator1
+    100542: indicator2
+    100544: indicator3
+    100546: indicator4
+    100548: indicator5
+    100550: indicator6
+    100552: indicator7
+    100554: indicator8
+    100556: indicator9
+    100558: indicator_
+    100560: interior
+    100562: interior10
+    100564: interior11
+    100566: interior12
+    100568: interior13
+    100570: interior14
+    100572: interior15
+    100574: interior16
+    100576: interior17
+    100578: interior18
+    100580: interior19
+    100582: interior20
+    100584: interior21
+    100586: interior22
+    100588: interior23
+    100590: interior24
+    100592: interior25
+    100594: interior26
+    100596: interior_0
+    100598: interior_1
+    100600: interior_2
+    100602: interior_3
+    100604: interior_4
+    100606: interior_5
+    100608: interior_6
+    100610: interior_7
+    100612: interior_8
+    100614: interior_9
+    100616: interior_a
+    100618: interior_b
+    100620: interior_c
+    100622: interior_f
+    100624: interior_g
+    100626: interior_l
+    100628: interior_m
+    100630: interior_p
+    100632: interior_r
+    100634: interior_s
+    100636: interior_t
+    100638: lamp_01
+    100640: lamp_02
+    100642: lamp_03
+    100644: lamp_04
+    100646: lamp_08
+    100648: lamp_09
+    100650: LicPlate01
+    100652: LicPlate02
+    100654: light_rea0
+    100656: light_rea1
+    100658: light_rear
+    100660: lights_fr0
+    100662: lights_fr1
+    100664: lights_fr2
+    100666: lights_fr3
+    100668: lights_fr4
+    100670: lights_fr5
+    100672: lights_fro
+    100674: logo_CX_5
+    100676: mazda_log0
+    100678: mazda_log1
+    100680: mazda_log2
+    100682: mazda_log3
+    100684: mazda_log4
+    100686: mazda_logo
+    100688: //RootNode
+    100690: muffer
+    100692: Object001
+    100694: Object002
+    100696: Object005
+    100698: Object006
+    100700: Object011
+    100702: Object012
+    100704: Object013
+    100706: Object015
+    100708: Object016
+    100710: Object017
+    100712: Object019
+    100714: Object020
+    100716: Object021
+    100718: Object023
+    100720: Object024
+    100722: Object025
+    100724: Object026
+    100726: Object027
+    100728: Object03
+    100730: Object03_0
+    100732: Object04
+    100734: OilTank002
+    100736: OilTank004
+    100738: Part 1007
+    100740: Part 1013
+    100742: Part 1019
+    100744: Part 1031
+    100746: Part 1055
+    100748: Part 1067
+    100750: Part 1073
+    100752: Part 1097
+    100754: Part 1103
+    100756: Part 1109
+    100758: Part 1115
+    100760: Part 1121
+    100762: Part 1127
+    100764: Part 1133
+    100766: Part 1139
+    100768: Part 1145
+    100770: Part 1151
+    100772: Part 1157
+    100774: Part 1169
+    100776: Part 1181
+    100778: Part 119
+    100780: Part 1193
+    100782: Part 1223
+    100784: Part 1229
+    100786: Part 1235
+    100788: Part 1241
+    100790: Part 1247
+    100792: Part 1253
+    100794: Part 1283
+    100796: Part 1289
+    100798: Part 1295
+    100800: Part 1301
+    100802: Part 1307
+    100804: Part 1313
+    100806: Part 1319
+    100808: Part 1325
+    100810: Part 1331
+    100812: Part 1337
+    100814: Part 1343
+    100816: Part 1349
+    100818: Part 1355
+    100820: Part 1361
+    100822: Part 1367
+    100824: Part 1373
+    100826: Part 1379
+    100828: Part 1385
+    100830: Part 1391
+    100832: Part 1397
+    100834: Part 1403
+    100836: Part 1409
+    100838: Part 1415
+    100840: Part 1421
+    100842: Part 1427
+    100844: Part 1433
+    100846: Part 1439
+    100848: Part 1445
+    100850: Part 1451
+    100852: Part 1457
+    100854: Part 1463
+    100856: Part 1469
+    100858: Part 1475
+    100860: Part 1493
+    100862: Part 1499
+    100864: Part 1511
+    100866: Part 1517
+    100868: Part 1523
+    100870: Part 1529
+    100872: Part 1535
+    100874: Part 1547
+    100876: Part 1553
+    100878: Part 1559
+    100880: Part 1565
+    100882: Part 1571
+    100884: Part 1577
+    100886: Part 1583
+    100888: Part 1589
+    100890: Part 1595
+    100892: Part 1601
+    100894: Part 1607
+    100896: Part 1613
+    100898: Part 1625
+    100900: Part 1631
+    100902: Part 1637
+    100904: Part 1643
+    100906: Part 1649
+    100908: Part 1655
+    100910: Part 1661
+    100912: Part 1667
+    100914: Part 167
+    100916: Part 1673
+    100918: Part 1679
+    100920: Part 1685
+    100922: Part 1691
+    100924: Part 1697
+    100926: Part 1705
+    100928: Part 1723
+    100930: Part 1741
+    100932: Part 1747
+    100934: Part 1753
+    100936: Part 1759
+    100938: Part 1765
+    100940: Part 1771
+    100942: Part 1789
+    100944: Part 1795
+    100946: Part 1801
+    100948: Part 1807
+    100950: Part 1813
+    100952: Part 1819
+    100954: Part 1825
+    100956: Part 1831
+    100958: Part 1839
+    100960: Part 1845
+    100962: Part 1851
+    100964: Part 1863
+    100966: Part 1941
+    100968: Part 1959
+    100970: Part 1965
+    100972: Part 1985
+    100974: Part 1991
+    100976: Part 2009
+    100978: Part 2021
+    100980: Part 2027
+    100982: Part 2033
+    100984: Part 2039
+    100986: Part 2045
+    100988: Part 2051
+    100990: Part 2057
+    100992: Part 2063
+    100994: Part 2081
+    100996: Part 2087
+    100998: Part 209
+    101000: Part 2093
+    101002: Part 2111
+    101004: Part 2141
+    101006: Part 2179
+    101008: Part 2203
+    101010: Part 221
+    101012: Part 2221
+    101014: Part 227
+    101016: Part 2275
+    101018: Part 2287
+    101020: Part 2293
+    101022: Part 2299
+    101024: Part 2305
+    101026: Part 2325
+    101028: Part 2349
+    101030: Part 2361
+    101032: Part 2367
+    101034: Part 2373
+    101036: Part 2379
+    101038: Part 2391
+    101040: Part 2403
+    101042: Part 2421
+    101044: Part 2439
+    101046: Part 2445
+    101048: Part 245
+    101050: Part 2469
+    101052: Part 2481
+    101054: Part 2487
+    101056: Part 263
+    101058: Part 269
+    101060: Part 281
+    101062: Part 287
+    101064: Part 299
+    101066: Part 305
+    101068: Part 311
+    101070: Part 317
+    101072: Part 323
+    101074: Part 371
+    101076: Part 377
+    101078: Part 383
+    101080: Part 425
+    101082: Part 431
+    101084: Part 437
+    101086: Part 443
+    101088: Part 449
+    101090: Part 473
+    101092: Part 479
+    101094: Part 503
+    101096: Part 509
+    101098: Part 515
+    101100: Part 533
+    101102: Part 539
+    101104: Part 545
+    101106: Part 557
+    101108: Part 59
+    101110: Part 725
+    101112: Part 743
+    101114: Part 767
+    101116: Part 773
+    101118: Part 779
+    101120: Part 791
+    101122: Part 797
+    101124: Part 803
+    101126: Part 845
+    101128: Part 869
+    101130: Part 875
+    101132: Part 881
+    101134: Part 887
+    101136: Part 911
+    101138: Part 917
+    101140: Part 935
+    101142: Part 947
+    101144: Part 95
+    101146: Part 953
+    101148: Part 959
+    101150: Part 971
+    101152: Part 989
+    101154: Part 995
+    101156: sat_02
+    101158: steering_0
+    101160: steering_1
+    101162: steering_2
+    101164: steering_3
+    101166: steering_4
+    101168: steering_5
+    101170: steering_6
+    101172: steering_b
+    101174: steering_c
+    101176: steering_l
+    101178: steering_p
+    101180: steering_s
+    101182: steering_t
+    101184: tailgate
+    101186: tailgate_0
+    101188: tailgate_1
+    101190: tailgate_2
+    101192: tailgate_3
+    101194: tailgate_4
+    101196: tailgate_5
+    101198: tailgate_6
+    101200: tailgate_c
+    101202: tailgate_l
+    101204: tailgate_p
+    101206: tailgate_w
+    101208: taillight0
+    101210: taillight1
+    101212: taillight2
+    101214: taillight3
+    101216: taillight4
+    101218: taillight5
+    101220: taillight6
+    101222: taillight7
+    101224: taillight_
+    101226: Text001
+    101228: tire_002
+    101230: tire_003
+    101232: tire_004
+    101234: tire_01
+    101236: top_01
+    101238: top_02
+    101240: top_03
+    101242: trunk_01
+    101244: window_com
+    101246: window_si0
+    101248: window_si1
+    101250: window_sid
+    101252: windshield
+    400000: $$$DUMMY.13_DOOR_FR
+    400002: $$$DUMMY.14_DOOR_FR
+    400004: $$$DUMMY.15_DOOR_RE
+    400006: $$$DUMMY.16_DOOR_RE
+    400008: $$$DUMMY.22_TAILGAT
+    400010: $$$DUMMY.Mazda_CX-5
+    400012: _main_sti0
+    400014: _main_sti1
+    400016: _main_stit
+    400018: black_pla0
+    400020: black_pla1
+    400022: black_pla2
+    400024: black_pla3
+    400026: black_plas
+    400028: body_rear0
+    400030: body_rear_
+    400032: Bumper_ba0
+    400034: Bumper_bac
+    400036: Bumper_Fr0
+    400038: Bumper_Fro
+    400040: carchair10
+    400042: carchair11
+    400044: carchair12
+    400046: carchair13
+    400048: carchair14
+    400050: carchair15
+    400052: carchair16
+    400054: carchair17
+    400056: carchair18
+    400058: carchair19
+    400060: carchair20
+    400062: carchair21
+    400064: carchair22
+    400066: carchair23
+    400068: carchair24
+    400070: carchair25
+    400072: carchair26
+    400074: carchair27
+    400076: carchair28
+    400078: carchair29
+    400080: carchair30
+    400082: carchair31
+    400084: carchair32
+    400086: carchair33
+    400088: carchair_0
+    400090: carchair_1
+    400092: carchair_2
+    400094: carchair_3
+    400096: carchair_4
+    400098: carchair_5
+    400100: carchair_6
+    400102: carchair_7
+    400104: carchair_8
+    400106: carchair_9
+    400108: carchair_f
+    400110: carchair_m
+    400112: carchair_r
+    400114: detail_ca0
+    400116: detail_ca1
+    400118: detail_cam
+    400120: disk_006
+    400122: disk_007
+    400124: disk_008
+    400126: disk_009
+    400128: disk_01
+    400130: disk_010
+    400132: disk_011
+    400134: disk_012
+    400136: disk_013
+    400138: disk_014
+    400140: disk_015
+    400142: disk_016
+    400144: disk_017
+    400146: disk_018
+    400148: disk_019
+    400150: disk_02
+    400152: disk_020
+    400154: disk_03
+    400156: disk_04
+    400158: disk_05
+    400160: door_fro10
+    400162: door_fro11
+    400164: door_fro12
+    400166: door_fro13
+    400168: door_fro14
+    400170: door_fro15
+    400172: door_fro16
+    400174: door_fro17
+    400176: door_fro18
+    400178: door_fro19
+    400180: door_fro20
+    400182: door_fro21
+    400184: door_fro22
+    400186: door_fro23
+    400188: door_fro24
+    400190: door_fro25
+    400192: door_fro26
+    400194: door_fro27
+    400196: door_fro28
+    400198: door_fro29
+    400200: door_fro30
+    400202: door_fro31
+    400204: door_fro32
+    400206: door_fro33
+    400208: door_fro34
+    400210: door_fro35
+    400212: door_fro36
+    400214: door_fro37
+    400216: door_fro38
+    400218: door_fro39
+    400220: door_fro40
+    400222: door_fro41
+    400224: door_fro42
+    400226: door_fro43
+    400228: door_fro44
+    400230: door_fro45
+    400232: door_fro46
+    400234: door_fro47
+    400236: door_fro48
+    400238: door_fro49
+    400240: door_fro50
+    400242: door_fro51
+    400244: door_fro52
+    400246: door_fro53
+    400248: door_fro54
+    400250: door_fro55
+    400252: door_fro56
+    400254: door_fron0
+    400256: door_fron1
+    400258: door_fron2
+    400260: door_fron3
+    400262: door_fron4
+    400264: door_fron5
+    400266: door_fron6
+    400268: door_fron7
+    400270: door_fron8
+    400272: door_fron9
+    400274: door_front
+    400276: door_rea10
+    400278: door_rea11
+    400280: door_rea12
+    400282: door_rea13
+    400284: door_rea14
+    400286: door_rea15
+    400288: door_rea16
+    400290: door_rea17
+    400292: door_rea18
+    400294: door_rea19
+    400296: door_rea20
+    400298: door_rea21
+    400300: door_rea22
+    400302: door_rea23
+    400304: door_rea24
+    400306: door_rea25
+    400308: door_rea26
+    400310: door_rea27
+    400312: door_rea28
+    400314: door_rea29
+    400316: door_rea30
+    400318: door_rea31
+    400320: door_rea32
+    400322: door_rea33
+    400324: door_rea34
+    400326: door_rea35
+    400328: door_rea36
+    400330: door_rea37
+    400332: door_rea38
+    400334: door_rea39
+    400336: door_rea40
+    400338: door_rear0
+    400340: door_rear1
+    400342: door_rear2
+    400344: door_rear3
+    400346: door_rear4
+    400348: door_rear5
+    400350: door_rear6
+    400352: door_rear7
+    400354: door_rear8
+    400356: door_rear9
+    400358: door_rear_
+    400360: Fbx_Root
+    400362: fender_fro
+    400364: fg
+    400366: frame
+    400368: frame_comp
+    400370: frame_loc0
+    400372: frame_lock
+    400374: front_pa10
+    400376: front_pa11
+    400378: front_pa12
+    400380: front_pa13
+    400382: front_pa14
+    400384: front_pa15
+    400386: front_pa16
+    400388: front_pa17
+    400390: front_pa18
+    400392: front_pa19
+    400394: front_pa20
+    400396: front_pa21
+    400398: front_pa22
+    400400: front_pa23
+    400402: front_pa24
+    400404: front_pa25
+    400406: front_pa26
+    400408: front_pa27
+    400410: front_pa28
+    400412: front_pan0
+    400414: front_pan1
+    400416: front_pan2
+    400418: front_pan3
+    400420: front_pan4
+    400422: front_pan5
+    400424: front_pan6
+    400426: front_pan7
+    400428: front_pan8
+    400430: front_pan9
+    400432: front_pane
+    400434: front_wip0
+    400436: front_wipe
+    400438: gage_pan10
+    400440: gage_pan11
+    400442: gage_pan12
+    400444: gage_pan13
+    400446: gage_pan14
+    400448: gage_pan15
+    400450: gage_pan16
+    400452: gage_pan17
+    400454: gage_pan18
+    400456: gage_pan19
+    400458: gage_pan20
+    400460: gage_pan21
+    400462: gage_pan22
+    400464: gage_pan23
+    400466: gage_pan24
+    400468: gage_pan25
+    400470: gage_pan26
+    400472: gage_pan27
+    400474: gage_pan28
+    400476: gage_pan29
+    400478: gage_pan30
+    400480: gage_pan31
+    400482: gage_pan32
+    400484: gage_pan33
+    400486: gage_pan34
+    400488: gage_pan35
+    400490: gage_pan36
+    400492: gage_pan37
+    400494: gage_pan38
+    400496: gage_pan39
+    400498: gage_pane0
+    400500: gage_pane1
+    400502: gage_pane2
+    400504: gage_pane3
+    400506: gage_pane4
+    400508: gage_pane5
+    400510: gage_pane6
+    400512: gage_pane7
+    400514: gage_pane8
+    400516: gage_pane9
+    400518: gage_panel
+    400520: gas_lift
+    400522: grill_003
+    400524: grill_01
+    400526: grill_03
+    400528: grill_04_0
+    400530: grill_04_p
+    400532: grill_05
+    400534: indicato10
+    400536: indicato11
+    400538: indicator0
+    400540: indicator1
+    400542: indicator2
+    400544: indicator3
+    400546: indicator4
+    400548: indicator5
+    400550: indicator6
+    400552: indicator7
+    400554: indicator8
+    400556: indicator9
+    400558: indicator_
+    400560: interior
+    400562: interior10
+    400564: interior11
+    400566: interior12
+    400568: interior13
+    400570: interior14
+    400572: interior15
+    400574: interior16
+    400576: interior17
+    400578: interior18
+    400580: interior19
+    400582: interior20
+    400584: interior21
+    400586: interior22
+    400588: interior23
+    400590: interior24
+    400592: interior25
+    400594: interior26
+    400596: interior_0
+    400598: interior_1
+    400600: interior_2
+    400602: interior_3
+    400604: interior_4
+    400606: interior_5
+    400608: interior_6
+    400610: interior_7
+    400612: interior_8
+    400614: interior_9
+    400616: interior_a
+    400618: interior_b
+    400620: interior_c
+    400622: interior_f
+    400624: interior_g
+    400626: interior_l
+    400628: interior_m
+    400630: interior_p
+    400632: interior_r
+    400634: interior_s
+    400636: interior_t
+    400638: lamp_01
+    400640: lamp_02
+    400642: lamp_03
+    400644: lamp_04
+    400646: lamp_08
+    400648: lamp_09
+    400650: LicPlate01
+    400652: LicPlate02
+    400654: light_rea0
+    400656: light_rea1
+    400658: light_rear
+    400660: lights_fr0
+    400662: lights_fr1
+    400664: lights_fr2
+    400666: lights_fr3
+    400668: lights_fr4
+    400670: lights_fr5
+    400672: lights_fro
+    400674: logo_CX_5
+    400676: mazda_log0
+    400678: mazda_log1
+    400680: mazda_log2
+    400682: mazda_log3
+    400684: mazda_log4
+    400686: mazda_logo
+    400688: //RootNode
+    400690: muffer
+    400692: Object001
+    400694: Object002
+    400696: Object005
+    400698: Object006
+    400700: Object011
+    400702: Object012
+    400704: Object013
+    400706: Object015
+    400708: Object016
+    400710: Object017
+    400712: Object019
+    400714: Object020
+    400716: Object021
+    400718: Object023
+    400720: Object024
+    400722: Object025
+    400724: Object026
+    400726: Object027
+    400728: Object03
+    400730: Object03_0
+    400732: Object04
+    400734: OilTank002
+    400736: OilTank004
+    400738: Part 1007
+    400740: Part 1013
+    400742: Part 1019
+    400744: Part 1031
+    400746: Part 1055
+    400748: Part 1067
+    400750: Part 1073
+    400752: Part 1097
+    400754: Part 1103
+    400756: Part 1109
+    400758: Part 1115
+    400760: Part 1121
+    400762: Part 1127
+    400764: Part 1133
+    400766: Part 1139
+    400768: Part 1145
+    400770: Part 1151
+    400772: Part 1157
+    400774: Part 1169
+    400776: Part 1181
+    400778: Part 119
+    400780: Part 1193
+    400782: Part 1223
+    400784: Part 1229
+    400786: Part 1235
+    400788: Part 1241
+    400790: Part 1247
+    400792: Part 1253
+    400794: Part 1283
+    400796: Part 1289
+    400798: Part 1295
+    400800: Part 1301
+    400802: Part 1307
+    400804: Part 1313
+    400806: Part 1319
+    400808: Part 1325
+    400810: Part 1331
+    400812: Part 1337
+    400814: Part 1343
+    400816: Part 1349
+    400818: Part 1355
+    400820: Part 1361
+    400822: Part 1367
+    400824: Part 1373
+    400826: Part 1379
+    400828: Part 1385
+    400830: Part 1391
+    400832: Part 1397
+    400834: Part 1403
+    400836: Part 1409
+    400838: Part 1415
+    400840: Part 1421
+    400842: Part 1427
+    400844: Part 1433
+    400846: Part 1439
+    400848: Part 1445
+    400850: Part 1451
+    400852: Part 1457
+    400854: Part 1463
+    400856: Part 1469
+    400858: Part 1475
+    400860: Part 1493
+    400862: Part 1499
+    400864: Part 1511
+    400866: Part 1517
+    400868: Part 1523
+    400870: Part 1529
+    400872: Part 1535
+    400874: Part 1547
+    400876: Part 1553
+    400878: Part 1559
+    400880: Part 1565
+    400882: Part 1571
+    400884: Part 1577
+    400886: Part 1583
+    400888: Part 1589
+    400890: Part 1595
+    400892: Part 1601
+    400894: Part 1607
+    400896: Part 1613
+    400898: Part 1625
+    400900: Part 1631
+    400902: Part 1637
+    400904: Part 1643
+    400906: Part 1649
+    400908: Part 1655
+    400910: Part 1661
+    400912: Part 1667
+    400914: Part 167
+    400916: Part 1673
+    400918: Part 1679
+    400920: Part 1685
+    400922: Part 1691
+    400924: Part 1697
+    400926: Part 1705
+    400928: Part 1723
+    400930: Part 1741
+    400932: Part 1747
+    400934: Part 1753
+    400936: Part 1759
+    400938: Part 1765
+    400940: Part 1771
+    400942: Part 1789
+    400944: Part 1795
+    400946: Part 1801
+    400948: Part 1807
+    400950: Part 1813
+    400952: Part 1819
+    400954: Part 1825
+    400956: Part 1831
+    400958: Part 1839
+    400960: Part 1845
+    400962: Part 1851
+    400964: Part 1863
+    400966: Part 1941
+    400968: Part 1959
+    400970: Part 1965
+    400972: Part 1985
+    400974: Part 1991
+    400976: Part 2009
+    400978: Part 2021
+    400980: Part 2027
+    400982: Part 2033
+    400984: Part 2039
+    400986: Part 2045
+    400988: Part 2051
+    400990: Part 2057
+    400992: Part 2063
+    400994: Part 2081
+    400996: Part 2087
+    400998: Part 209
+    401000: Part 2093
+    401002: Part 2111
+    401004: Part 2141
+    401006: Part 2179
+    401008: Part 2203
+    401010: Part 221
+    401012: Part 2221
+    401014: Part 227
+    401016: Part 2275
+    401018: Part 2287
+    401020: Part 2293
+    401022: Part 2299
+    401024: Part 2305
+    401026: Part 2325
+    401028: Part 2349
+    401030: Part 2361
+    401032: Part 2367
+    401034: Part 2373
+    401036: Part 2379
+    401038: Part 2391
+    401040: Part 2403
+    401042: Part 2421
+    401044: Part 2439
+    401046: Part 2445
+    401048: Part 245
+    401050: Part 2469
+    401052: Part 2481
+    401054: Part 2487
+    401056: Part 263
+    401058: Part 269
+    401060: Part 281
+    401062: Part 287
+    401064: Part 299
+    401066: Part 305
+    401068: Part 311
+    401070: Part 317
+    401072: Part 323
+    401074: Part 371
+    401076: Part 377
+    401078: Part 383
+    401080: Part 425
+    401082: Part 431
+    401084: Part 437
+    401086: Part 443
+    401088: Part 449
+    401090: Part 473
+    401092: Part 479
+    401094: Part 503
+    401096: Part 509
+    401098: Part 515
+    401100: Part 533
+    401102: Part 539
+    401104: Part 545
+    401106: Part 557
+    401108: Part 59
+    401110: Part 725
+    401112: Part 743
+    401114: Part 767
+    401116: Part 773
+    401118: Part 779
+    401120: Part 791
+    401122: Part 797
+    401124: Part 803
+    401126: Part 845
+    401128: Part 869
+    401130: Part 875
+    401132: Part 881
+    401134: Part 887
+    401136: Part 911
+    401138: Part 917
+    401140: Part 935
+    401142: Part 947
+    401144: Part 95
+    401146: Part 953
+    401148: Part 959
+    401150: Part 971
+    401152: Part 989
+    401154: Part 995
+    401156: sat_02
+    401158: steering_0
+    401160: steering_1
+    401162: steering_2
+    401164: steering_3
+    401166: steering_4
+    401168: steering_5
+    401170: steering_6
+    401172: steering_b
+    401174: steering_c
+    401176: steering_l
+    401178: steering_p
+    401180: steering_s
+    401182: steering_t
+    401184: tailgate
+    401186: tailgate_0
+    401188: tailgate_1
+    401190: tailgate_2
+    401192: tailgate_3
+    401194: tailgate_4
+    401196: tailgate_5
+    401198: tailgate_6
+    401200: tailgate_c
+    401202: tailgate_l
+    401204: tailgate_p
+    401206: tailgate_w
+    401208: taillight0
+    401210: taillight1
+    401212: taillight2
+    401214: taillight3
+    401216: taillight4
+    401218: taillight5
+    401220: taillight6
+    401222: taillight7
+    401224: taillight_
+    401226: Text001
+    401228: tire_002
+    401230: tire_003
+    401232: tire_004
+    401234: tire_01
+    401236: top_01
+    401238: top_02
+    401240: top_03
+    401242: trunk_01
+    401244: window_com
+    401246: window_si0
+    401248: window_si1
+    401250: window_sid
+    401252: windshield
+    2100000: mattemetal
+    2100002: interior_fourth
+    2100004: black
+    2100006: interior_nineth
+    2100008: interior_eighth
+    2100010: interior_seventh
+    2100012: chrome
+    2100014: carpaint
+    2100016: interior_sixth
+    2100018: interior_third
+    2100020: windowglass
+    2100022: darkglass
+    2100024: clearglass
+    2100026: white
+    2100028: interior_tenth
+    2100030: interior_fifth
+    2100032: interior_second
+    2100034: tire
+    2100036: rim
+    2100038: rim_second
+    2100040: brakedisk
+    2100042: orangeglass
+    2100044: redglass
+    2100046: LicPlate_white
+    2100048: LicPlate_black
+    2100050: LicPlate_blue
+    2100052: LicPlate_yellow
+    2100054: mirror
+    2300000: Part 1007
+    2300002: Part 1013
+    2300004: Part 1019
+    2300006: Part 1031
+    2300008: Part 1055
+    2300010: Part 1067
+    2300012: Part 1073
+    2300014: Part 1097
+    2300016: Part 1103
+    2300018: Part 1109
+    2300020: Part 1115
+    2300022: Part 1121
+    2300024: Part 1127
+    2300026: Part 1133
+    2300028: Part 1139
+    2300030: Part 1145
+    2300032: Part 1151
+    2300034: Part 1157
+    2300036: Part 1169
+    2300038: Part 1181
+    2300040: Part 119
+    2300042: Part 1193
+    2300044: Part 1223
+    2300046: Part 1229
+    2300048: Part 1235
+    2300050: Part 1241
+    2300052: Part 1247
+    2300054: Part 1253
+    2300056: Part 1283
+    2300058: Part 1289
+    2300060: Part 1295
+    2300062: Part 1301
+    2300064: Part 1307
+    2300066: Part 1313
+    2300068: Part 1319
+    2300070: Part 1325
+    2300072: Part 1331
+    2300074: Part 1337
+    2300076: Part 1343
+    2300078: Part 1349
+    2300080: Part 1355
+    2300082: Part 1361
+    2300084: Part 1367
+    2300086: Part 1373
+    2300088: Part 1379
+    2300090: Part 1385
+    2300092: Part 1391
+    2300094: Part 1397
+    2300096: Part 1403
+    2300098: Part 1409
+    2300100: Part 1415
+    2300102: Part 1421
+    2300104: Part 1427
+    2300106: Part 1433
+    2300108: Part 1439
+    2300110: Part 1445
+    2300112: Part 1451
+    2300114: Part 1457
+    2300116: Part 1463
+    2300118: Part 1469
+    2300120: Part 1475
+    2300122: Part 1493
+    2300124: Part 1499
+    2300126: Part 1511
+    2300128: Part 1517
+    2300130: Part 1523
+    2300132: Part 1529
+    2300134: Part 1535
+    2300136: Part 1547
+    2300138: Part 1553
+    2300140: Part 1559
+    2300142: Part 1565
+    2300144: Part 1571
+    2300146: Part 1577
+    2300148: Part 1583
+    2300150: Part 1589
+    2300152: Part 1595
+    2300154: Part 1601
+    2300156: Part 1607
+    2300158: Part 1613
+    2300160: Part 1625
+    2300162: Part 1631
+    2300164: Part 1637
+    2300166: Part 1643
+    2300168: Part 1649
+    2300170: Part 1655
+    2300172: Part 1661
+    2300174: Part 1667
+    2300176: Part 167
+    2300178: Part 1673
+    2300180: Part 1679
+    2300182: Part 1685
+    2300184: Part 1691
+    2300186: Part 1697
+    2300188: Part 1705
+    2300190: Part 1723
+    2300192: Part 1741
+    2300194: Part 1747
+    2300196: Part 1753
+    2300198: Part 1759
+    2300200: Part 1765
+    2300202: Part 1771
+    2300204: Part 1789
+    2300206: Part 1795
+    2300208: Part 1801
+    2300210: Part 1807
+    2300212: Part 1813
+    2300214: Part 1819
+    2300216: Part 1825
+    2300218: Part 1831
+    2300220: Part 1839
+    2300222: Part 1845
+    2300224: Part 1851
+    2300226: Part 1863
+    2300228: Part 1941
+    2300230: Part 1959
+    2300232: Part 1965
+    2300234: Part 1985
+    2300236: Part 1991
+    2300238: Part 2009
+    2300240: Part 2021
+    2300242: Part 2027
+    2300244: Part 2033
+    2300246: Part 2039
+    2300248: Part 2045
+    2300250: Part 2051
+    2300252: Part 2057
+    2300254: Part 2063
+    2300256: Part 2081
+    2300258: Part 2087
+    2300260: Part 209
+    2300262: Part 2093
+    2300264: Part 2111
+    2300266: Part 2141
+    2300268: Part 2179
+    2300270: Part 2203
+    2300272: Part 221
+    2300274: Part 2221
+    2300276: Part 227
+    2300278: Part 2275
+    2300280: Part 2287
+    2300282: Part 2293
+    2300284: Part 2299
+    2300286: Part 2305
+    2300288: Part 2325
+    2300290: Part 2349
+    2300292: Part 2361
+    2300294: Part 2367
+    2300296: Part 2373
+    2300298: Part 2379
+    2300300: Part 2391
+    2300302: Part 2403
+    2300304: Part 2421
+    2300306: Part 2439
+    2300308: Part 2445
+    2300310: Part 245
+    2300312: Part 2469
+    2300314: Part 2481
+    2300316: Part 2487
+    2300318: Part 263
+    2300320: Part 269
+    2300322: Part 281
+    2300324: Part 287
+    2300326: Part 299
+    2300328: Part 305
+    2300330: Part 311
+    2300332: Part 317
+    2300334: Part 323
+    2300336: Part 371
+    2300338: Part 377
+    2300340: Part 383
+    2300342: Part 425
+    2300344: Part 431
+    2300346: Part 437
+    2300348: Part 443
+    2300350: Part 449
+    2300352: Part 473
+    2300354: Part 479
+    2300356: Part 503
+    2300358: Part 509
+    2300360: Part 515
+    2300362: Part 533
+    2300364: Part 539
+    2300366: Part 545
+    2300368: Part 557
+    2300370: Part 59
+    2300372: Part 725
+    2300374: Part 743
+    2300376: Part 767
+    2300378: Part 773
+    2300380: Part 779
+    2300382: Part 791
+    2300384: Part 797
+    2300386: Part 803
+    2300388: Part 845
+    2300390: Part 869
+    2300392: Part 875
+    2300394: Part 881
+    2300396: Part 887
+    2300398: Part 911
+    2300400: Part 917
+    2300402: Part 935
+    2300404: Part 947
+    2300406: Part 95
+    2300408: Part 953
+    2300410: Part 959
+    2300412: Part 971
+    2300414: Part 989
+    2300416: Part 995
+    3300000: Part 1007
+    3300002: Part 1013
+    3300004: Part 1019
+    3300006: Part 1031
+    3300008: Part 1055
+    3300010: Part 1067
+    3300012: Part 1073
+    3300014: Part 1097
+    3300016: Part 1103
+    3300018: Part 1109
+    3300020: Part 1115
+    3300022: Part 1121
+    3300024: Part 1127
+    3300026: Part 1133
+    3300028: Part 1139
+    3300030: Part 1145
+    3300032: Part 1151
+    3300034: Part 1157
+    3300036: Part 1169
+    3300038: Part 1181
+    3300040: Part 119
+    3300042: Part 1193
+    3300044: Part 1223
+    3300046: Part 1229
+    3300048: Part 1235
+    3300050: Part 1241
+    3300052: Part 1247
+    3300054: Part 1253
+    3300056: Part 1283
+    3300058: Part 1289
+    3300060: Part 1295
+    3300062: Part 1301
+    3300064: Part 1307
+    3300066: Part 1313
+    3300068: Part 1319
+    3300070: Part 1325
+    3300072: Part 1331
+    3300074: Part 1337
+    3300076: Part 1343
+    3300078: Part 1349
+    3300080: Part 1355
+    3300082: Part 1361
+    3300084: Part 1367
+    3300086: Part 1373
+    3300088: Part 1379
+    3300090: Part 1385
+    3300092: Part 1391
+    3300094: Part 1397
+    3300096: Part 1403
+    3300098: Part 1409
+    3300100: Part 1415
+    3300102: Part 1421
+    3300104: Part 1427
+    3300106: Part 1433
+    3300108: Part 1439
+    3300110: Part 1445
+    3300112: Part 1451
+    3300114: Part 1457
+    3300116: Part 1463
+    3300118: Part 1469
+    3300120: Part 1475
+    3300122: Part 1493
+    3300124: Part 1499
+    3300126: Part 1511
+    3300128: Part 1517
+    3300130: Part 1523
+    3300132: Part 1529
+    3300134: Part 1535
+    3300136: Part 1547
+    3300138: Part 1553
+    3300140: Part 1559
+    3300142: Part 1565
+    3300144: Part 1571
+    3300146: Part 1577
+    3300148: Part 1583
+    3300150: Part 1589
+    3300152: Part 1595
+    3300154: Part 1601
+    3300156: Part 1607
+    3300158: Part 1613
+    3300160: Part 1625
+    3300162: Part 1631
+    3300164: Part 1637
+    3300166: Part 1643
+    3300168: Part 1649
+    3300170: Part 1655
+    3300172: Part 1661
+    3300174: Part 1667
+    3300176: Part 167
+    3300178: Part 1673
+    3300180: Part 1679
+    3300182: Part 1685
+    3300184: Part 1691
+    3300186: Part 1697
+    3300188: Part 1705
+    3300190: Part 1723
+    3300192: Part 1741
+    3300194: Part 1747
+    3300196: Part 1753
+    3300198: Part 1759
+    3300200: Part 1765
+    3300202: Part 1771
+    3300204: Part 1789
+    3300206: Part 1795
+    3300208: Part 1801
+    3300210: Part 1807
+    3300212: Part 1813
+    3300214: Part 1819
+    3300216: Part 1825
+    3300218: Part 1831
+    3300220: Part 1839
+    3300222: Part 1845
+    3300224: Part 1851
+    3300226: Part 1863
+    3300228: Part 1941
+    3300230: Part 1959
+    3300232: Part 1965
+    3300234: Part 1985
+    3300236: Part 1991
+    3300238: Part 2009
+    3300240: Part 2021
+    3300242: Part 2027
+    3300244: Part 2033
+    3300246: Part 2039
+    3300248: Part 2045
+    3300250: Part 2051
+    3300252: Part 2057
+    3300254: Part 2063
+    3300256: Part 2081
+    3300258: Part 2087
+    3300260: Part 209
+    3300262: Part 2093
+    3300264: Part 2111
+    3300266: Part 2141
+    3300268: Part 2179
+    3300270: Part 2203
+    3300272: Part 221
+    3300274: Part 2221
+    3300276: Part 227
+    3300278: Part 2275
+    3300280: Part 2287
+    3300282: Part 2293
+    3300284: Part 2299
+    3300286: Part 2305
+    3300288: Part 2325
+    3300290: Part 2349
+    3300292: Part 2361
+    3300294: Part 2367
+    3300296: Part 2373
+    3300298: Part 2379
+    3300300: Part 2391
+    3300302: Part 2403
+    3300304: Part 2421
+    3300306: Part 2439
+    3300308: Part 2445
+    3300310: Part 245
+    3300312: Part 2469
+    3300314: Part 2481
+    3300316: Part 2487
+    3300318: Part 263
+    3300320: Part 269
+    3300322: Part 281
+    3300324: Part 287
+    3300326: Part 299
+    3300328: Part 305
+    3300330: Part 311
+    3300332: Part 317
+    3300334: Part 323
+    3300336: Part 371
+    3300338: Part 377
+    3300340: Part 383
+    3300342: Part 425
+    3300344: Part 431
+    3300346: Part 437
+    3300348: Part 443
+    3300350: Part 449
+    3300352: Part 473
+    3300354: Part 479
+    3300356: Part 503
+    3300358: Part 509
+    3300360: Part 515
+    3300362: Part 533
+    3300364: Part 539
+    3300366: Part 545
+    3300368: Part 557
+    3300370: Part 59
+    3300372: Part 725
+    3300374: Part 743
+    3300376: Part 767
+    3300378: Part 773
+    3300380: Part 779
+    3300382: Part 791
+    3300384: Part 797
+    3300386: Part 803
+    3300388: Part 845
+    3300390: Part 869
+    3300392: Part 875
+    3300394: Part 881
+    3300396: Part 887
+    3300398: Part 911
+    3300400: Part 917
+    3300402: Part 935
+    3300404: Part 947
+    3300406: Part 95
+    3300408: Part 953
+    3300410: Part 959
+    3300412: Part 971
+    3300414: Part 989
+    3300416: Part 995
+    4300000: Part 59
+    4300002: Part 95
+    4300004: Part 119
+    4300006: Part 167
+    4300008: Part 209
+    4300010: Part 221
+    4300012: Part 227
+    4300014: Part 245
+    4300016: Part 263
+    4300018: Part 269
+    4300020: Part 281
+    4300022: Part 287
+    4300024: Part 299
+    4300026: Part 305
+    4300028: Part 311
+    4300030: Part 317
+    4300032: Part 323
+    4300034: Part 371
+    4300036: Part 377
+    4300038: Part 383
+    4300040: Part 425
+    4300042: Part 431
+    4300044: Part 437
+    4300046: Part 443
+    4300048: Part 449
+    4300050: Part 473
+    4300052: Part 479
+    4300054: Part 503
+    4300056: Part 509
+    4300058: Part 515
+    4300060: Part 533
+    4300062: Part 539
+    4300064: Part 545
+    4300066: Part 557
+    4300068: Part 725
+    4300070: Part 743
+    4300072: Part 767
+    4300074: Part 773
+    4300076: Part 779
+    4300078: Part 791
+    4300080: Part 797
+    4300082: Part 803
+    4300084: Part 845
+    4300086: Part 869
+    4300088: Part 875
+    4300090: Part 881
+    4300092: Part 887
+    4300094: Part 911
+    4300096: Part 917
+    4300098: Part 935
+    4300100: Part 947
+    4300102: Part 953
+    4300104: Part 959
+    4300106: Part 971
+    4300108: Part 989
+    4300110: Part 995
+    4300112: Part 1007
+    4300114: Part 1013
+    4300116: Part 1019
+    4300118: Part 1031
+    4300120: Part 1055
+    4300122: Part 1067
+    4300124: Part 1073
+    4300126: Part 1097
+    4300128: Part 1103
+    4300130: Part 1109
+    4300132: Part 1115
+    4300134: Part 1121
+    4300136: Part 1127
+    4300138: Part 1133
+    4300140: Part 1139
+    4300142: Part 1145
+    4300144: Part 1151
+    4300146: Part 1157
+    4300148: Part 1169
+    4300150: Part 1181
+    4300152: Part 1193
+    4300154: Part 1223
+    4300156: Part 1229
+    4300158: Part 1235
+    4300160: Part 1241
+    4300162: Part 1247
+    4300164: Part 1253
+    4300166: Part 1283
+    4300168: Part 1289
+    4300170: Part 1295
+    4300172: Part 1301
+    4300174: Part 1307
+    4300176: Part 1313
+    4300178: Part 1319
+    4300180: Part 1325
+    4300182: Part 1331
+    4300184: Part 1337
+    4300186: Part 1343
+    4300188: Part 1349
+    4300190: Part 1355
+    4300192: Part 1361
+    4300194: Part 1367
+    4300196: Part 1373
+    4300198: Part 1379
+    4300200: Part 1385
+    4300202: Part 1391
+    4300204: Part 1397
+    4300206: Part 1403
+    4300208: Part 1409
+    4300210: Part 1415
+    4300212: Part 1421
+    4300214: Part 1427
+    4300216: Part 1433
+    4300218: Part 1439
+    4300220: Part 1445
+    4300222: Part 1451
+    4300224: Part 1457
+    4300226: Part 1463
+    4300228: Part 1469
+    4300230: Part 1475
+    4300232: Part 1493
+    4300234: Part 1499
+    4300236: Part 1511
+    4300238: Part 1517
+    4300240: Part 1523
+    4300242: Part 1529
+    4300244: Part 1535
+    4300246: Part 1547
+    4300248: Part 1553
+    4300250: Part 1559
+    4300252: Part 1565
+    4300254: Part 1571
+    4300256: Part 1577
+    4300258: Part 1583
+    4300260: Part 1589
+    4300262: Part 1595
+    4300264: Part 1601
+    4300266: Part 1607
+    4300268: Part 1613
+    4300270: Part 1625
+    4300272: Part 1631
+    4300274: Part 1637
+    4300276: Part 1643
+    4300278: Part 1649
+    4300280: Part 1655
+    4300282: Part 1661
+    4300284: Part 1667
+    4300286: Part 1673
+    4300288: Part 1679
+    4300290: Part 1685
+    4300292: Part 1691
+    4300294: Part 1697
+    4300296: Part 1705
+    4300298: Part 1723
+    4300300: Part 1741
+    4300302: Part 1747
+    4300304: Part 1753
+    4300306: Part 1759
+    4300308: Part 1765
+    4300310: Part 1771
+    4300312: Part 1789
+    4300314: Part 1795
+    4300316: Part 1801
+    4300318: Part 1807
+    4300320: Part 1813
+    4300322: Part 1819
+    4300324: Part 1825
+    4300326: Part 1831
+    4300328: Part 1839
+    4300330: Part 1845
+    4300332: Part 1851
+    4300334: Part 1863
+    4300336: Part 1941
+    4300338: Part 1959
+    4300340: Part 1965
+    4300342: Part 1985
+    4300344: Part 1991
+    4300346: Part 2009
+    4300348: Part 2021
+    4300350: Part 2027
+    4300352: Part 2033
+    4300354: Part 2039
+    4300356: Part 2045
+    4300358: Part 2051
+    4300360: Part 2057
+    4300362: Part 2063
+    4300364: Part 2081
+    4300366: Part 2087
+    4300368: Part 2093
+    4300370: Part 2111
+    4300372: Part 2141
+    4300374: Part 2179
+    4300376: Part 2203
+    4300378: Part 2221
+    4300380: Part 2275
+    4300382: Part 2287
+    4300384: Part 2293
+    4300386: Part 2299
+    4300388: Part 2305
+    4300390: Part 2325
+    4300392: Part 2349
+    4300394: Part 2361
+    4300396: Part 2367
+    4300398: Part 2373
+    4300400: Part 2379
+    4300402: Part 2391
+    4300404: Part 2403
+    4300406: Part 2421
+    4300408: Part 2439
+    4300410: Part 2445
+    4300412: Part 2469
+    4300414: Part 2481
+    4300416: Part 2487
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LicPlate_black
+    second: {fileID: 2100000, guid: c4e9baa5483d2644a933e4aabdba42c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LicPlate_blue
+    second: {fileID: 2100000, guid: a0da2786403e1e243bebcd281cc3446b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LicPlate_white
+    second: {fileID: 2100000, guid: ccc274b83df4b584fbaa8bccf9a96d54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LicPlate_yellow
+    second: {fileID: 2100000, guid: 8978244e40131534bacd69aa4b402ccc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: 352d34ca9e009044b9296aef2f3d50b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brakedisk
+    second: {fileID: 2100000, guid: 446d163e75a471f4ba494b1d43eded9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: carpaint
+    second: {fileID: 2100000, guid: e41ef62b4a27a44459c16a2b20475e87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome
+    second: {fileID: 2100000, guid: 42ef52f9535e1614eb5e6c3e37549750, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: clearglass
+    second: {fileID: 2100000, guid: d6e8e7800afa9974fa30cb5a3fc0dfc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: darkglass
+    second: {fileID: 2100000, guid: 98c31c7ca454df448b19acbc88a17212, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior_eighth
+    second: {fileID: 2100000, guid: 27f28d62cabdb4f4a8f6ff5c1b476b90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior_fifth
+    second: {fileID: 2100000, guid: 878ee157518db0147be4ce52ee704c56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior_fourth
+    second: {fileID: 2100000, guid: f60ee245a5834af48a5776120fd367ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior_nineth
+    second: {fileID: 2100000, guid: 9c3bb48f63221754b945c7e609bf37ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior_second
+    second: {fileID: 2100000, guid: 854fa5e7cc4978244b0ec537d005f5ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior_seventh
+    second: {fileID: 2100000, guid: 11dd7e31a6432ae4b984f209a0970258, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior_sixth
+    second: {fileID: 2100000, guid: 59b2016d857b514469ed3ca0c6aada5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior_tenth
+    second: {fileID: 2100000, guid: 0348db331e0ba31469e6b1b9c1eb434a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: interior_third
+    second: {fileID: 2100000, guid: b6c7024aa97bc504198fbe47e9899de8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mattemetal
+    second: {fileID: 2100000, guid: 943ff4121a3bd164aae3e4c515c468fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror
+    second: {fileID: 2100000, guid: 1f4131d18ce6c0e4fb9aa42f52a0a432, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orangeglass
+    second: {fileID: 2100000, guid: a699c6ea26db04346a5679a7a5b2669a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: redglass
+    second: {fileID: 2100000, guid: 2ea94f3c94c486242970dfb4ac2dc89a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rim
+    second: {fileID: 2100000, guid: 54585b54e680af04ca9843ae192a576a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rim_second
+    second: {fileID: 2100000, guid: 8b165ed24ab972044b9368eb135de8e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tire
+    second: {fileID: 2100000, guid: 7dd25f105983e274cb1fa908670275e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2100000, guid: 0ed801ffcba64e343882f288a2f8cd5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: windowglass
+    second: {fileID: 2100000, guid: c340e30a41ebb6b43ad4d593fd204724, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 4
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
