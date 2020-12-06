@@ -12,12 +12,14 @@ public class DoorController : MonoBehaviour
     
     private RaycastHit hit;
     private Camera camera;
+    private ScriptableManager scriptableManager;
 
     // Start is called before the first frame update
     void Awake()
     {
         // Assign camera here because using Camera.main in Update is expensive
         camera = Camera.main;
+        scriptableManager = GetComponent<ScriptableManager>();
     }
     
     bool TryGetTouch(out Touch touch)
@@ -38,7 +40,7 @@ public class DoorController : MonoBehaviour
         if (!TryGetTouch(out Touch touch))
             return;
         
-        if (touch.phase == TouchPhase.Began)
+        if (touch.phase == TouchPhase.Began && !scriptableManager.ControlState.IsRelocating)
         {
             Physics.Raycast(camera.ScreenPointToRay(touch.position), out hit);
             BoxCollider boxCollider = hit.collider as BoxCollider;
