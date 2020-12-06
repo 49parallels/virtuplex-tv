@@ -42,6 +42,10 @@ public class DoorController : MonoBehaviour
         
         if (touch.phase == TouchPhase.Began && !scriptableManager.ControlState.IsRelocating)
         {
+            /*
+             * Check if hit one of box colliders in DoorControl object hierarchy and call attached
+             * action
+             */
             Physics.Raycast(camera.ScreenPointToRay(touch.position), out hit);
             BoxCollider boxCollider = hit.collider as BoxCollider;
             if (boxCollider)
@@ -51,8 +55,10 @@ public class DoorController : MonoBehaviour
         }
     }
 
-    /*Moved GetComponent to coroutine it is bad practice and expensive (in case of batch of colliders)
-     to use the method in Update*/
+    /*
+     * Moved GetComponent to coroutine it is bad practice and expensive (in case of batch of colliders)
+     * to use the method in Update
+     */
     IEnumerator InvokeRotation(BoxCollider collider)
     {
         DoorOpenClose door = collider.GetComponent<DoorOpenClose>();
